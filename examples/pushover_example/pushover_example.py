@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 import time
 
 import pushover
-from depopwatch import Listener
+import depopwatch
 
 import logging
 import sys
@@ -13,7 +13,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 if __name__ == "__main__":
     #Create a watcher for a depop account
-    mary_listen = Listener("maryrosenberger")
+    mary_listen = depopwatch.Listener("maryrosenberger")
     mary_listen.search_account()
 
     logging.info("Initial scan complete, waiting for new items")
