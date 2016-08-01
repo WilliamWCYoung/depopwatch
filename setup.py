@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='depopwatch',
-      version='0.1',
+      version='0.1.1',
       description='A very simple module to watch Depop accounts for new listings',
       url='http://github.com/WilliamWCYoung/depopwatch',
       author='William Young',
