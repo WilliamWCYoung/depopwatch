@@ -1,7 +1,7 @@
 # Depopwatch
 [![PyPI version](https://badge.fury.io/py/depopwatch.svg)](https://badge.fury.io/py/depopwatch)
 [![Build Status](https://travis-ci.org/WilliamWCYoung/depopwatch.svg?branch=master)](https://travis-ci.org/WilliamWCYoung/depopwatch)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/WilliamWCYoung/depopwatch/master/LICENSE.txt)
 
 ## Introduction
 
