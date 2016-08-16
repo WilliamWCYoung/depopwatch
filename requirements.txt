@@ -1,1 +1,3 @@
 requests
+chardet2 
+urllib3
